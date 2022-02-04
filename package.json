@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@ethereumjs/tx": "^3.4.0",
+    "@ledgerhq/hw-app-eth": "^6.21.3",
+    "@ledgerhq/hw-transport-node-hid": "^6.20.0",
+    "web3": "^1.6.1"
+  }
+}
