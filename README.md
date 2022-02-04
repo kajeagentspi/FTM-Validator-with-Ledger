@@ -27,3 +27,5 @@ main()
 ```
 
 5. Run the script again and confirm the transaction in your ledger. 
+
+If it doesn't work or an error occurs please create an issue.
